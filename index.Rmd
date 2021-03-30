@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "Guest Lecture Series - April 2021"
 description: |
   Welcome to the website. I hope you enjoy it!
 site: distill::distill_website

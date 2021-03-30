@@ -1,7 +1,7 @@
 ---
-title: "About this site"
+title: "Department of Travel & Tourism"
 description: |
-  Some additional details about the website
+  Some additional details about the department and this lecture series.
 ---
 
 ```{r setup, include=FALSE}
