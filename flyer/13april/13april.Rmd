@@ -1,0 +1,88 @@
+---
+title: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["xaringan-themer.css", "myslides.css"]
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      slideNumberFormat: " "
+      ratio: 15:18
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message = F,
+                      echo = F,
+                      fig.retina = 3,
+                      out.width = "20%")
+
+options(htmltools.dir.version = FALSE)
+
+# pkgs used
+library(qrcode)
+library(icon)
+library(tidyverse)
+library(xaringanExtra)
+xaringanExtra::use_tachyons()
+```
+
+background-image: url("images/taj.jpg")
+background-size: cover
+
+```{r vu-logo, out.width="50%", fig.align='left', fig.keep='last'}
+knitr::include_graphics("images/vu.png")
+```
+
+```{r qr, include=FALSE}
+png("qrplot.png")
+qrcode_gen("https://vu-tourism.netlify.app/")
+dev.off()
+```
+
+.b.f6.left.navy[On the occasion of World Heritage Day - 2021 <br>Department of Travel & Tourism invites you]
+
+.b.f4.left.orange[
+Guest Lecture Series April 12-17]
+
+```{r 13, out.width="35%", fig.align='left'}
+knitr::include_graphics("images/13.jpeg")
+```
+
+
+.f6.navy[
+
+13.04.21 | 4 PM  
+.orange[Environmental Law and Tourism]  
+Mr. Chandrashekhar M.Wankhede, <br>Shivaji University (India)
+]
+
+.left-column[
+.f8.bg-washed-blue.navy.b--orange.ba.bw1.br3.shadow-5.ph4[
+Organising team:
+- Miss Aarti Suryavanshi (HOD) 
+- Dr. Ajay Koli (Coordinator) 
+- Mr. Nishant Sutare (Team member) 
+- Dr. Bibek Datta (Team member) 
+- Mr. Sandeep Kapse (Team member) 
+- Mr. Remi Thomas (Team member) 
+- Miss Palak Tuteja (Team member)
+
+Contact: `r icon::fa("envelope-open")` [ajay.koli@vupune.ac.in]() | `r icon::fa("phone")` 88868 10879 (Ajay)
+
+]
+]
+
+.right-column[
+<br>
+```{r q, fig.align='right', out.width="80%"}
+knitr::include_graphics("images/qrplot.png")
+```
+
+]
+
+
+

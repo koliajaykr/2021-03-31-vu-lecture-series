@@ -1,0 +1,87 @@
+---
+title: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["xaringan-themer.css", "myslides.css"]
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      slideNumberFormat: " "
+      ratio: 15:18
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message = F,
+                      echo = F,
+                      fig.retina = 3,
+                      out.width = "20%")
+
+options(htmltools.dir.version = FALSE)
+
+# pkgs used
+library(qrcode)
+library(icon)
+library(tidyverse)
+library(xaringanExtra)
+xaringanExtra::use_tachyons()
+```
+
+background-image: url("images/taj.jpg")
+background-size: cover
+
+```{r vu-logo, out.width="50%", fig.align='left', fig.keep='last'}
+knitr::include_graphics("images/vu.png")
+```
+
+```{r qr, include=FALSE}
+png("qrplot.png")
+qrcode_gen("https://vu-tourism.netlify.app/")
+dev.off()
+```
+
+.b.f6.left.navy[On the occasion of World Heritage Day - 2021 <br>Department of Travel & Tourism invites you]
+
+.b.f4.left.orange[
+Guest Lecture Series April 12-17]
+
+```{r 13, out.width="30%", fig.align='left'}
+knitr::include_graphics("images/12.jpg")
+```
+
+
+.f6.navy[
+
+12.04.21    
+.orange[Residents of Key International Markets <br>perspectives of visiting the U.S. in a time of COVID-19]  
+Dr. Kyle M. Woosnam, University of Georgia (USA)
+]
+
+.left-column[
+.f8.bg-washed-blue.navy.b--orange.ba.bw1.br3.shadow-5.ph4[
+Organising committee:
+- Miss Aarti Suryavanshi (HOD) 
+- Dr. Ajay Koli (Coordinator) 
+- Mr. Nishant Sutare (Committee member) 
+- Dr. Bibek Datta (Committee member) 
+- Mr. Sandeep Kapse (Committee member) 
+- Mr. Remi Thomas (Committee member) 
+- Miss Palak Tuteja (Committee member)
+
+Contact: `r icon::fa("envelope-open")` [ajay.koli@vupune.ac.in]() | `r icon::fa("phone")` 88868 10879 (Ajay)
+
+]
+]
+
+.right-column[
+<br>
+```{r q, fig.align='right', out.width="80%"}
+knitr::include_graphics("images/qrplot.png")
+```
+]
+
+
+

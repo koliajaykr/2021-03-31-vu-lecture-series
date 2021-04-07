@@ -1,5 +1,5 @@
 name: "2021-03-31-vu-lecture-series"
-title: "Vishwakarma University"
+title: "Vishwakarma University | Department of Travel & Tourism"
 description: |
   My Website
 output_dir: "."
@@ -7,6 +7,6 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Speakers"
       href: about.html
 output: distill::distill_article

@@ -1,7 +1,7 @@
 ---
-title: "Guest Lecture Series - April 2021"
+title: "World Heritage Day 2021 "
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Welcome to the Guest Lecture Series (12-17 April, 2021).
 site: distill::distill_website
 ---
 
@@ -14,5 +14,15 @@ knitr::opts_chunk$set(echo = FALSE)
 # Learn more about publishing to GitHub Pages at:
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 
+```
+
+# <span style="background-color: orange;">[Register Here](https://forms.gle/j5ffmEYy96yoNNyw6)</span>
+
+
+```{r echo=FALSE, fig.retina=3}
+library(magick)
+
+image_read("images/flyer.jpg") %>% 
+  magick::image_border("#EEEEEE", "30x30")
 ```
 
