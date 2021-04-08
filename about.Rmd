@@ -6,4 +6,26 @@ title: "Speakers"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-*Coming soon!*
+# Dr. Kyle Woosnam
+
+
+Associate Professor at Parks, Creation and Tourism Management
+University of Georgia
+
+https://www.warnell.uga.edu/people/faculty/dr-kyle-maurice-woosnam 
+Residents of Key International Markets perspectives of visiting the U.S. in a time of COVID-19
+12 April 2021
+
+4 to 5 PM
+
+# Dr. Fabio Carbone
+Lecturer and researcher in cultural heritage management  and Tourism, Intercultural Dialogue & Cultural Diplomacy
+
+https://www.coventry.ac.uk/life-on-campus/staff-directory/business-and-law/dr-fabio-carbone/ 
+
+
+Cultural Heritage Management 
+15 April 2021
+
+4 to 5 PM
+
