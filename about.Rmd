@@ -4,6 +4,62 @@ title: "Speakers"
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+
+library(emo)
 ```
 
-*Coming soon !*
+# [Dr. Kyle M. Woosnam](https://www.warnell.uga.edu/people/faculty/dr-kyle-maurice-woosnam)
+
+Associate Professor, University of Georgia - USA
+
+Sustainable tourism; Cultural-heritage tourism; Community tourism
+
+**Topic: Residents of Key International Markets perspectives of visiting the U.S. in a time of COVID-19**
+
+`r emo::ji("date")` 12 April, 2021 `r emo::ji("clock4")` 4:00 to 5:30 PM IST
+
+# [Dr. Fabio Carbone](https://www.coventry.ac.uk/life-on-campus/staff-directory/business-and-law/dr-fabio-carbone/)
+
+Senior Academician, Coventry University - UK
+
+Cultural Heritage Management; International Tourism Management; Intercultural Dialogue; Cultural Diplomacy
+
+**Topic: Cultural Heritage Management**
+
+`r emo::ji("date")` 15 April, 2021 `r emo::ji("clock4")` 4:00 to 5:00 PM IST
+
+# [Mr. Chandrashekhar M. Wankhede]()
+
+Contributory Assistant Professor, Shivaji University, India; Sub-Editor - Lokmat Times; Executive Editor - Nuturing Age
+
+**Topic: Environmental Law and Tourism**
+
+`r emo::ji("date")` 16 April, 2021 `r emo::ji("clock4")` 4:00 to 5:00 PM IST
+
+# Dr. A. Lajwanti Naidu
+
+Assistant Director, Capacity Building Andhra Pradesh Tourism Authority - India
+
+Responsible Tourism; Sustainable Tourism
+
+**Topic: Career opportunities in Responsible Tourism...An Entrepreneur perspective**
+
+`r emo::ji("date")` 16 April, 2021 `r emo::ji("clock5")` 5:00 to 6:00 PM IST
+
+# Dr. Madhuri Sawant
+
+Director - International Centre for Buddhist Tourism, Assistant Professor, Dr. Babasaheb Ambedkar Marathwada University - India 
+
+**Topic: Ajanta caves- Art, appreciation and Management** 
+
+`r emo::ji("date")` 17 April, 2021 `r emo::ji("clock4")` 3:00 to 4:00 PM IST
+
+# Dr. Rajesh Ragde
+
+Director, Department of Tourism Administration, Dr. Babasaheb Ambedkar Marathwada University - India
+
+Tourism planning & policies; Hospitality management; HR
+
+**Topic: World Heritage in Danger**
+
+`r emo::ji("date")` 17 April, 2021 `r emo::ji("clock4")` 4:00 to 5:00 PM IST
