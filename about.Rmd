@@ -36,7 +36,7 @@ Contributory Assistant Professor, Shivaji University, India; Sub-Editor - Lokmat
 
 `r emo::ji("date")` 16 April, 2021 `r emo::ji("clock4")` 4:00 to 5:00 PM IST
 
-# Dr. A. Lajwanti Naidu
+# [Dr. A. Lajwanti Naidu]()
 
 Assistant Director, Capacity Building Andhra Pradesh Tourism Authority - India
 
@@ -46,7 +46,7 @@ Responsible Tourism; Sustainable Tourism
 
 `r emo::ji("date")` 16 April, 2021 `r emo::ji("clock5")` 5:00 to 6:00 PM IST
 
-# Dr. Madhuri Sawant
+# [Dr. Madhuri Sawant](https://www.linkedin.com/in/dr-madhuri-sawant-851b5734)
 
 Director - International Centre for Buddhist Tourism, Assistant Professor, Dr. Babasaheb Ambedkar Marathwada University - India 
 
@@ -54,7 +54,7 @@ Director - International Centre for Buddhist Tourism, Assistant Professor, Dr. B
 
 `r emo::ji("date")` 17 April, 2021 `r emo::ji("clock4")` 3:00 to 4:00 PM IST
 
-# Dr. Rajesh Ragde
+# [Dr. Rajesh Ragde](https://www.linkedin.com/in/dr-rajesh-ragde-4367b230)
 
 Director, Department of Tourism Administration, Dr. Babasaheb Ambedkar Marathwada University - India
 

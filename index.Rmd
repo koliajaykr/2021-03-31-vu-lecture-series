@@ -1,7 +1,7 @@
 ---
 title: "World Heritage Day 2021 "
 description: |
-  Welcome to the Guest Lecture Series (12-17 April, 2021).
+  Department of Travel & Tourism team welcomes you to the Guest Lecture Series (12-17 April, 2021).
 site: distill::distill_website
 ---
 
