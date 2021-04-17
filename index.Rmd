@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-# <span style="background-color: orange;">Event Successfully Completed</span>
+# <span style="background-color: orange;">Successfully Completed</span>
 
 ```{r echo=FALSE}
 library(xaringanExtra)
