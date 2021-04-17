@@ -16,8 +16,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-# <span style="background-color: orange;">[Register Here](https://forms.gle/j5ffmEYy96yoNNyw6)</span>
+# <span style="background-color: orange;">Event Successfully Completed</span>
 
+```{r echo=FALSE}
+library(xaringanExtra)
+xaringanExtra::embed_xaringan(url = "slides/slides.html", ratio = "4:3", max_width = 600)
+```
 
 ```{r echo=FALSE, fig.retina=3}
 library(magick)
