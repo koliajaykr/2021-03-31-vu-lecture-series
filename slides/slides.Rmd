@@ -540,7 +540,7 @@ background-image: url("images/lastday.png")
 background-size: cover
 background-color: #E5E4E2
 
-.white[`r emo::ji("party")` `r emo::ji("party")` event successfully completed <br>team (including Bivek & Payal) click <br>for our memory]
+.white[`r emo::ji("party")` `r emo::ji("party")` event successfully completed <br>team (including Bivek & Palak) click <br>for our memory]
 
 ---
 
