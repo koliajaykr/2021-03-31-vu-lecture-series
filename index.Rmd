@@ -22,11 +22,3 @@ knitr::opts_chunk$set(echo = FALSE)
 library(xaringanExtra)
 xaringanExtra::embed_xaringan(url = "slides/slides.html", ratio = "4:3", max_width = 600)
 ```
-
-```{r echo=FALSE, fig.retina=3}
-library(magick)
-
-image_read("images/flyer.jpg") %>% 
-  magick::image_border("#EEEEEE", "30x30")
-```
-
